@@ -1,0 +1,14 @@
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\getters-and-setters\bin\Debug\net8.0\getters-and-setters.exe
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\getters-and-setters\bin\Debug\net8.0\getters-and-setters.deps.json
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\getters-and-setters\bin\Debug\net8.0\getters-and-setters.runtimeconfig.json
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\getters-and-setters\bin\Debug\net8.0\getters-and-setters.dll
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\getters-and-setters\bin\Debug\net8.0\getters-and-setters.pdb
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\getters-and-setters\obj\Debug\net8.0\getters-and-setters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\getters-and-setters\obj\Debug\net8.0\getters-and-setters.AssemblyInfoInputs.cache
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\getters-and-setters\obj\Debug\net8.0\getters-and-setters.AssemblyInfo.cs
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\getters-and-setters\obj\Debug\net8.0\getters-and-setters.csproj.CoreCompileInputs.cache
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\getters-and-setters\obj\Debug\net8.0\getters-and-setters.dll
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\getters-and-setters\obj\Debug\net8.0\refint\getters-and-setters.dll
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\getters-and-setters\obj\Debug\net8.0\getters-and-setters.pdb
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\getters-and-setters\obj\Debug\net8.0\getters-and-setters.genruntimeconfig.cache
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\getters-and-setters\obj\Debug\net8.0\ref\getters-and-setters.dll

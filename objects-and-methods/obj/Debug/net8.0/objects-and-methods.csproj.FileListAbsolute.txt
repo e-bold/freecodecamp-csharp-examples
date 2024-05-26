@@ -1,0 +1,14 @@
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\objects-and-methods\bin\Debug\net8.0\objects-and-methods.exe
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\objects-and-methods\bin\Debug\net8.0\objects-and-methods.deps.json
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\objects-and-methods\bin\Debug\net8.0\objects-and-methods.runtimeconfig.json
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\objects-and-methods\bin\Debug\net8.0\objects-and-methods.dll
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\objects-and-methods\bin\Debug\net8.0\objects-and-methods.pdb
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\objects-and-methods\obj\Debug\net8.0\objects-and-methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\objects-and-methods\obj\Debug\net8.0\objects-and-methods.AssemblyInfoInputs.cache
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\objects-and-methods\obj\Debug\net8.0\objects-and-methods.AssemblyInfo.cs
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\objects-and-methods\obj\Debug\net8.0\objects-and-methods.csproj.CoreCompileInputs.cache
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\objects-and-methods\obj\Debug\net8.0\objects-and-methods.dll
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\objects-and-methods\obj\Debug\net8.0\refint\objects-and-methods.dll
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\objects-and-methods\obj\Debug\net8.0\objects-and-methods.pdb
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\objects-and-methods\obj\Debug\net8.0\objects-and-methods.genruntimeconfig.cache
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\objects-and-methods\obj\Debug\net8.0\ref\objects-and-methods.dll

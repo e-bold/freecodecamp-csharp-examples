@@ -1,0 +1,14 @@
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\static-class-attributes\bin\Debug\net8.0\static-class-attributes.exe
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\static-class-attributes\bin\Debug\net8.0\static-class-attributes.deps.json
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\static-class-attributes\bin\Debug\net8.0\static-class-attributes.runtimeconfig.json
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\static-class-attributes\bin\Debug\net8.0\static-class-attributes.dll
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\static-class-attributes\bin\Debug\net8.0\static-class-attributes.pdb
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\static-class-attributes\obj\Debug\net8.0\static-class-attributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\static-class-attributes\obj\Debug\net8.0\static-class-attributes.AssemblyInfoInputs.cache
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\static-class-attributes\obj\Debug\net8.0\static-class-attributes.AssemblyInfo.cs
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\static-class-attributes\obj\Debug\net8.0\static-class-attributes.csproj.CoreCompileInputs.cache
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\static-class-attributes\obj\Debug\net8.0\static-class-attributes.dll
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\static-class-attributes\obj\Debug\net8.0\refint\static-class-attributes.dll
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\static-class-attributes\obj\Debug\net8.0\static-class-attributes.pdb
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\static-class-attributes\obj\Debug\net8.0\static-class-attributes.genruntimeconfig.cache
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\Self Practice\freecodecamp\static-class-attributes\obj\Debug\net8.0\ref\static-class-attributes.dll
